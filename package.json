@@ -1,0 +1,13 @@
+{
+  "name": "test-sr2",
+  "version": "1.0.0",
+  "description": "Test for SR",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBraunstein/test-sr2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenBraunstein/test-sr2/issues"
+  },
+  "homepage": "https://github.com/BenBraunstein/test-sr2#readme"
+}
