@@ -32,4 +32,5 @@ jobs:
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+          NPM_TOKEN: ${{ secrets.SEMANTIC_RELEASE_NPM_TOKEN }}
         run: npx semantic-release@v17.1.1 --branches 'master'
